@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/qrcode-generator/static/css/main.a617e044.chunk.css",
-    "main.js": "/qrcode-generator/static/js/main.2b7ac88d.chunk.js",
-    "main.js.map": "/qrcode-generator/static/js/main.2b7ac88d.chunk.js.map",
-    "runtime-main.js": "/qrcode-generator/static/js/runtime-main.5558db80.js",
-    "runtime-main.js.map": "/qrcode-generator/static/js/runtime-main.5558db80.js.map",
-    "static/js/2.8869005a.chunk.js": "/qrcode-generator/static/js/2.8869005a.chunk.js",
-    "static/js/2.8869005a.chunk.js.map": "/qrcode-generator/static/js/2.8869005a.chunk.js.map",
-    "static/js/3.ddfbb643.chunk.js": "/qrcode-generator/static/js/3.ddfbb643.chunk.js",
-    "static/js/3.ddfbb643.chunk.js.map": "/qrcode-generator/static/js/3.ddfbb643.chunk.js.map",
+    "main.css": "/qrcode-generator/static/css/main.bd0f4eca.chunk.css",
+    "main.js": "/qrcode-generator/static/js/main.7b26e5ce.chunk.js",
+    "main.js.map": "/qrcode-generator/static/js/main.7b26e5ce.chunk.js.map",
+    "runtime-main.js": "/qrcode-generator/static/js/runtime-main.fd0abd89.js",
+    "runtime-main.js.map": "/qrcode-generator/static/js/runtime-main.fd0abd89.js.map",
+    "static/js/2.26b0cac8.chunk.js": "/qrcode-generator/static/js/2.26b0cac8.chunk.js",
+    "static/js/2.26b0cac8.chunk.js.map": "/qrcode-generator/static/js/2.26b0cac8.chunk.js.map",
+    "static/js/3.d73f8d5f.chunk.js": "/qrcode-generator/static/js/3.d73f8d5f.chunk.js",
+    "static/js/3.d73f8d5f.chunk.js.map": "/qrcode-generator/static/js/3.d73f8d5f.chunk.js.map",
     "index.html": "/qrcode-generator/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/qrcode-generator/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.8869005a.chunk.js.LICENSE.txt": "/qrcode-generator/static/js/2.8869005a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/qrcode-generator/static/media/logo.6ce24c58.svg"
+    "static/css/main.bd0f4eca.chunk.css.map": "/qrcode-generator/static/css/main.bd0f4eca.chunk.css.map",
+    "static/js/2.26b0cac8.chunk.js.LICENSE.txt": "/qrcode-generator/static/js/2.26b0cac8.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/qrcode-generator/static/media/Nunito-Regular.e4eb7682.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5558db80.js",
-    "static/js/2.8869005a.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.2b7ac88d.chunk.js"
+    "static/js/runtime-main.fd0abd89.js",
+    "static/js/2.26b0cac8.chunk.js",
+    "static/css/main.bd0f4eca.chunk.css",
+    "static/js/main.7b26e5ce.chunk.js"
   ]
 }
