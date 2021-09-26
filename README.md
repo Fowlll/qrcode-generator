@@ -6,4 +6,4 @@ Moreover, this idea came to me in the process of my journey "Build a project per
 
 # Link
 
-You can found the web app on this link: https://qrcode-generator-dawson.herokuapp.com/
+You can found the web app on this link: https://fowlll.github.io/qrcode-generator/
